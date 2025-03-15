@@ -25,7 +25,7 @@ Vercel for frontend deployment
 Getting Started
 
 Step 1: Clone the Repository
-git clone https://github.com/your-github-username/fintech-frontend.git
+git clone https://github.com/Harri1703/XNL-21BCE3318-FS-1-Frontend
 cd fintech-frontend
 
 Step 2: Install Dependencies
